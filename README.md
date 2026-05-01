@@ -24,7 +24,7 @@ This project generates random jokes every time you run the program.
 
 ## 📂 Project Structure
 ```
-Joke Generator/
+NodeJS-CLI-Project-Joke-Generator/
 │── jokegenerator.js
 │── package.json
 │── package-lock.json
@@ -39,8 +39,10 @@ Joke Generator/
 Clone the repository:
 ```
 git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-Project-Joke-Generator-.git
-
-cd NodeJS-Project-Joke-Generator-
+```
+Go to project folder
+```
+cd NodeJS-CLI-Project-Joke-Generator
 ```
 ---
 
