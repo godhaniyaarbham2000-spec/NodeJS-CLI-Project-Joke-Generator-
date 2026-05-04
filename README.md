@@ -1,7 +1,7 @@
 # 😂 Joke Generator (Node.js CLI Tool)
 
 A simple command-line based Joke Generator built using Node.js.  
-This project generates random jokes every time you run the program.
+This project generates random jokes every time you run the program. 
 
 ---
 
